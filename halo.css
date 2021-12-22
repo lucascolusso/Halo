@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@200;400;600;700&display=swap');
+
+h1{
+    font-family: 'Public Sans', sans-serif !important;
+    font-size:72px !important;
+    color: red !important;
+}
